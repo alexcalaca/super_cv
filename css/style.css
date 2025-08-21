@@ -1,11 +1,16 @@
-<header>
-    <!-- Header / Personal Info -->
-    <h1 style="color: black; font-family: Arial, sans-serif;">Ana Clara Marinho</h1>
-  <p><strong style="font-family: Georgia, serif;color: grey;">Software Engineering</strong></p>
-  <address 
-   <a href="mailto:clarinha.am@gmail.com" style="color: teal; font-weight: text-decoration: none;">
-      clarinha.am@gmail.com</a><br>
-  <a href="tel:+5521992341618" style="color: teal; font-weight:text-decoration: none;">
-      +55 (21) 99234-1618 </a>
-  </address>
-</header>
+Example CSS for your HTML elements */
+h1 {
+  color: rgb(227, 25, 180);
+  font-family: Arial, sans-serif;
+}
+
+strong {
+  font-family: Georgia, serif;
+  color: rgb(32, 220, 38);
+}
+
+a {
+  color: rgb(29, 17, 203);
+  text-decoration: none;
+  font-weight: bold;
+}
